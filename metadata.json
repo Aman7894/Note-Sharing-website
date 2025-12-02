@@ -1,5 +1,0 @@
-{
-  "name": "Note Sharing Platform",
-  "description": "A modern web application where users can upload their subject notes and browse or download notes shared by others. Built with React and styled with Tailwind CSS.",
-  "requestFramePermissions": []
-}
